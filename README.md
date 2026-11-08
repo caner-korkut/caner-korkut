@@ -14,7 +14,7 @@
 
 I lead **[ICTLAB](https://www.ictlab.io)**, an IT consultancy in Brussels. I founded it in 2022. Our team of five helps Belgian and EU organizations with security, compliance and AI. We do penetration tests, ISO 27001 audits, cloud architecture and AI infrastructure. I am a certified **ISO 27001 Lead Auditor** and an experienced penetration tester. I build security and AI systems that go to production.
 
-## 🚀 What I'm building
+## 🚀 What we do
 
 **[ICTLAB](https://www.ictlab.io)**: cybersecurity, DevSecOps, cloud and AI consulting for Belgian and EU clients. Our clients work in regulated sectors (finance, healthcare, public sector) or are scale-ups.
 
