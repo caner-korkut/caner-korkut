@@ -7,7 +7,6 @@
 <p align="center">
   <a href="https://www.ictlab.io"><img alt="Website" src="https://img.shields.io/badge/web-ictlab.io-0b66ff?style=flat-square"></a>
   <a href="https://www.linkedin.com/in/caner-korkut/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-caner--korkut-0a66c2?style=flat-square&logo=linkedin&logoColor=white"></a>
-  <a href="https://gward.be"><img alt="GWARD" src="https://img.shields.io/badge/SOC-GWARD-111?style=flat-square"></a>
   <a href="https://github.com/ictlab-be"><img alt="ICTLAB org" src="https://img.shields.io/badge/org-%40ictlab--be-181717?style=flat-square&logo=github&logoColor=white"></a>
 </p>
 
@@ -17,8 +16,6 @@ I lead **[ICTLAB](https://www.ictlab.io)**, an IT consultancy in Brussels. I fou
 
 ## 🚀 What I'm building
 
-**[GWARD](https://gward.be)**: a cloud SOC-as-a-Service for European SMEs that cannot justify a full in-house security team. It gives 24/7 threat detection, automated incident response and a NIS2/GDPR compliance dashboard.
-
 **[ICTLAB](https://www.ictlab.io)**: cybersecurity, DevSecOps, cloud and AI consulting for Belgian and EU clients. Our clients work in regulated sectors (finance, healthcare, public sector) or are scale-ups.
 
 ## 🎯 Where I focus
@@ -26,7 +23,7 @@ I lead **[ICTLAB](https://www.ictlab.io)**, an IT consultancy in Brussels. I fou
 | Focus | What I lead |
 |---|---|
 | **Offensive security** | Penetration testing, red teaming, vulnerability management programmes |
-| **Defensive operations** | SOC strategy, incident response, threat detection engineering (GWARD) |
+| **Defensive operations** | SOC strategy, incident response, threat detection engineering |
 | **Regulatory compliance** | NIS2 readiness, ISO 27001 certification, GDPR, DORA |
 | **AI security & infra** | Security of RAG and LLM deployments, AI red teaming, prompt-injection defense, private inference stacks |
 | **Cloud & DevSecOps** | Multi-cloud architecture (Azure, AWS, GCP), Kubernetes, IaC, CI/CD security |
